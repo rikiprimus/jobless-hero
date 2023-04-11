@@ -2,7 +2,7 @@
 
 ## Description
 A hero component using reactjs
-Designed by Glenn Vhalado
+#### Designed by Glenn Vhalado
 
 ## Preview
 ![jobless](https://user-images.githubusercontent.com/34765525/231215799-f57413ca-f4a0-4de6-ae6d-33419d621836.JPG)
